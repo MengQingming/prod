@@ -39,7 +39,7 @@
             <property name="persistenceUnitName" value="Simple" />
     </bean>
      -->
-
+	
 
 		<!-- org.apache.commons.dbcp.BasicDataSource -->
 	<bean id="dataSource"
